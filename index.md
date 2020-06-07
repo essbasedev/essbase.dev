@@ -37,5 +37,3 @@ nothing yet. thinking about setting up email address that has `<your-desired-nam
 ## Contact
 
 drop me an email if you are interested or need more clarificatioions 
-
-my email: anbu@essbase.dev
