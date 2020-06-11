@@ -2,5 +2,5 @@ title: essbase.dev
 #logo: /assets/img/essbasedev-logo.png
 description: home page of essbase developers
 show_downloads: false
-google_analytics:
+google_analytics: UA-169199700-1
 theme: jekyll-theme-minimal
